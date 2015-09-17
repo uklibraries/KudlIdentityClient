@@ -1,0 +1,5 @@
+[kudl-identity-client]
+
+; kudl_identity_library_path = [string]
+; Path to the KUDL Identity library
+kudl_identity_library_path = "/path/to/kudl/minter"
